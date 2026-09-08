@@ -7,7 +7,7 @@
 **Building intelligent systems that don't just generate answers — they move work forward.**
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/ahmad-abdul-ghaffar">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="YOUR_GITHUB_URL">
