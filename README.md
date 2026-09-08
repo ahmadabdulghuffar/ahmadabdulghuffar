@@ -4,7 +4,7 @@
 
 ### AI Agent Developer · AI Automation Engineer · Workflow Automation
 
-**Building intelligent systems that don't just generate answers — they move work forward.**
+**Building intelligent systems that don't just generate answers -- they move work forward.**
 
 <p>
   <a href="https://www.linkedin.com/in/ahmad-abdul-ghaffar">
