@@ -322,11 +322,13 @@ I believe every problem needs the **simplest reliable architecture that creates 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmadabdulghuffar
+&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadabdulghuffar
+&layout=compact&hide_border=true" />
 
 </div>
 
